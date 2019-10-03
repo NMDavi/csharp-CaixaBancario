@@ -1,0 +1,11 @@
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\bin\Release\CaixaBancario.exe.config
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\bin\Release\CaixaBancario.exe
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\bin\Release\CaixaBancario.pdb
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.JPrincipal.resources
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.JBemVindo.resources
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.Properties.Resources.resources
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.csproj.GenerateResource.cache
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.csproj.CoreCompileInputs.cache
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.exe
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.pdb
+D:\Davi(2)\Portifolio\CaixaBancario\CaixaBancario\obj\Release\CaixaBancario.AboutBoxSobre.resources
